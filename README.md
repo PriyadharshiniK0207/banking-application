@@ -24,6 +24,10 @@ The purpose of this project is to learn JavaScript, run a Node.js program, and u
 The application output screenshot demonstrates the JavaScript program running in the terminal.
 
 ![Banking Application Output](banking-output.png)
+
+### Banking Application Webpage
+
+![Banking Application Webpage](image.png)
 ## Technologies Used
 - JavaScript
 - Node.js
